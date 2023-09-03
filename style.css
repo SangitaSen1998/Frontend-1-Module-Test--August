@@ -136,6 +136,23 @@ header {
   justify-content: center;
   align-items: center;
 }
+.small-heading>p {
+    color: #525252;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 150%;
+    padding: 10px 20px;
+    align-items: flex-start;
+    float: left;
+    position: absolute;
+    gap: 10px;
+    border-radius: 23px;
+    background-color: #FFF;
+    box-shadow: 0px 2px 40px 0px rgba(0, 0, 0, 0.12);
+    margin-top: 150px;
+    /* 21px */
+}
+
 .form {
   display: flex;
   padding: 28px 24px 32px 24px;
