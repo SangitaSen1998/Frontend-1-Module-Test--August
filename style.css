@@ -1,0 +1,26 @@
+*{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.logo{
+    width: Hug (228.98px);
+height: Hug (38px);
+gap: 10px;
+
+}
+
+.para{
+    background-color: blue;
+    color: white;
+     text-align:center ;
+}
+
+.curriculum{
+   
+font-size: 18px;
+font-weight: 400;
+line-height: 23px;
+letter-spacing: 0.02em;
+text-align: left;
+
+}
